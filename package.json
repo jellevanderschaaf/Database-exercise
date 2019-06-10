@@ -1,0 +1,19 @@
+{
+  "name": "database-exercise",
+  "version": "1.0.0",
+  "description": "Going to make my first MySQL database using node.js, express.js and XAMPP.",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellevanderschaaf/Database-exercise.git"
+  },
+  "author": "Jelle van der Schaaf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jellevanderschaaf/Database-exercise/issues"
+  },
+  "homepage": "https://github.com/jellevanderschaaf/Database-exercise#readme"
+}
